@@ -40,7 +40,14 @@
 
 # Descrição dos casos de uso
 
-*&lt;Descrição dos casos de uso&gt;*
+*Caso 01: Registro de faltas
+Descrição: Permitir que o professor registre faltas.
+Atores: Aluno e Professor*
+
+*Caso 02: Notificações 
+Descrição: Enviar notificações por e-mail para pais e responsáveis em caso de faltas excessivas.
+Ator: Pais/Responsáveis*
+
 
 # Protótipos de tela
 
