@@ -25,7 +25,7 @@
 
 # Autores
 
-* Aluno 1
+* Mirella Monção de Souza
 * Aluno 2
 * Aluno 3
 * Aluno 4
