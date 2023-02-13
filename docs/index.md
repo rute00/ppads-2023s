@@ -26,18 +26,13 @@
 # Autores
 
 * Mirella Monção de Souza
-* Aluno 2
+* Rute de Almeida Lourenço
 * Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do projeto
 
-*&lt;Descrição do projeto&gt;*
+*Projeto sobre ssitema para controle de presença dos alunos da escola Octógono.*
 
 # Diagrama de casos de uso
 
