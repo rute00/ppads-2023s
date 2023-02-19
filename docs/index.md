@@ -27,7 +27,7 @@
 
 * Mirella Monção de Souza
 * Rute de Almeida Lourenço
-* Aluno 3
+* Isabella Lee Abdala
 
 
 # Descrição do projeto
